@@ -1,5 +1,6 @@
 # zebrasGAN
-GAN for change horses to zebras and zebras to horses
+cycleGAN  
+change the horses to zebras, and the zebras to horses
 
 Based on article https://machinelearningmastery.com/cyclegan-tutorial-with-keras/
 
