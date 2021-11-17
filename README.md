@@ -18,4 +18,4 @@ _Comment_: the speed of this "zebrasGAN" on TensorFlow 2.6.x and new Colab envir
 
 I've checked my old notebooks and have a proof. Check the screenshot.
 
-<img src="/home/cubecloud/Python/projects/zebrasGAN/proof_1year_ago.png"/>
+<img src="proof_1year_ago.png">
